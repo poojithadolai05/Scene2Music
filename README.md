@@ -123,8 +123,8 @@ Run `notebooks/Scene2Music.ipynb` to:
 
 Developed with dedication by:
 
-- **K. Lakshmi Sripriya**
 - **D. Poojitha**
+- **K. Lakshmi Sripriya**
 - **P. Bhuvana**
 - **G. Thanusha**
 - **S. Vidya Sagar**
